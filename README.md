@@ -13,6 +13,6 @@
   </a>
 </p>
 <h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=l1kw1d&show_icons=true&theme=tokyonight" /></h4>
-
-<p align="center">[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/l1kw1d/)]</p>
-[![Sparkline](https://github.com/l1kw1d/badges.svg)](https://stars.medv.io/l1kw1d/Jonathan.Provost)]
+<a href="https://github.com/l1kw1d">
+<p align="center"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /></p>
+<p align="center"><img src="https://github.com/l1kw1d/badges.svg" /></p>
