@@ -13,6 +13,7 @@
   </a>
 </p>
 <h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=l1kw1d&show_icons=true&theme=tokyonight" /></h4>
-<a href="https://github.com/l1kw1d">
+<a href="https://pin.plus/JP">
 <p align="center"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" /></p>
-<p align="center"><img src="https://github.com/l1kw1d/badges.svg" /></p>
+<a href="https://github.com/l1kw1d">  
+<p align="center"><img src="https://raw.githubusercontent.com/l1kw1d/jprovo.st/master/img/badges.svg" /></p>
