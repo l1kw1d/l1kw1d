@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sansmotdepasse" target="blank"><img src="https://img.shields.io/twitter/follow/sansmotdepasse?logo=twitter&style=for-the-badge" alt="sansmotdepasse" /></a> </p>
 
-- 🔭 I’m currently working on [Tauri Apps](https://tauri.studio)
+- 🔭 I’m currently working on [Tauri Apps](https://tauri.app) & [TIDEFI](https://tidefi.com)
 
 - 🌱 I’m currently learning **CISSP , SOC certifications**
 
