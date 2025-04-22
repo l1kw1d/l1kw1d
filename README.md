@@ -29,7 +29,6 @@ Let's connect and collaborate on projects that make the digital world a safer pl
 </div>
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com?user=l1kw1d&theme=dark)](https://git.io/streak-stats)
 <br clear="both">
 
 ###
